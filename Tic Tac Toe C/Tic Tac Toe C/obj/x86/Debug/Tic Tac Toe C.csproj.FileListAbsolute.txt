@@ -1,0 +1,28 @@
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.exe
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.pdb
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.exe
+D:\new idea\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.pdb
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.exe
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.pdb
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.exe
+C:\Users\HP\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.pdb
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.exe.config
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.exe
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\bin\Debug\Tic Tac Toe C.pdb
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.AssemblyReference.cache
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.GenerateResource.cache
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.csproj.CoreCompileInputs.cache
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.exe
+C:\Users\ammarsafi\OneDrive\Desktop\X&O Game\Tic Tac Toe C\Tic Tac Toe C\obj\x86\Debug\Tic Tac Toe C.pdb
